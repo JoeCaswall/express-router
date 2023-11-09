@@ -21,13 +21,14 @@
   },
   "homepage": "https://github.com/MultiverseLearningProducts/express-router#readme",
   "dependencies": {
-    "express": "^4.17.3",
-    "express-validator": "^6.14.0",
+    "clear": "^0.1.0",
+    "express": "^4.18.2",
+    "express-validator": "^6.15.0",
     "sequelize": "^6.31.0",
     "sqlite3": "^5.1.6"
   },
   "devDependencies": {
-    "jest": "^29.5.0",
+    "jest": "^29.7.0",
     "nodemon": "^2.0.15",
     "supertest": "^6.3.3"
   }
